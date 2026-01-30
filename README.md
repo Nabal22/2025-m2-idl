@@ -4,6 +4,12 @@
 
 This repository contains all the resources for the M2 course "Introduction to Deep Learning" and will be populated each week.
 
+## Access to hardware
+
+To access GPUs (for the TPs and the project), you can try https://datalab.sspcloud.fr (log with your university account), or 
+[Google colab](https://colab.research.google.com) (but it requires a google account).
+
+
 ## Course Structure
 
 ### 09/01/2025. Introduction to Deep Learning and Transfer Learning
@@ -26,6 +32,13 @@ This repository contains all the resources for the M2 course "Introduction to De
 - [Automatic Differentiation](3-autodiff/autodiff.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/3-autodiff/autodiff.ipynb)
 - [Dual Numbers](3-autodiff/dual-numbers.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/3-autodiff/dual-numbers.ipynb)
 - [TP: Simple Backpropagation Implementation](3-autodiff/tp-3-backprop.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/3-autodiff/tp-3-backprop.ipynb)
+
+
+### 30/01/2025. Classification: Logistic and Softmax Regression
+
+- [Classification with Logistic and Softmax Regression](4-classification/classification.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/4-classification/classification.ipynb)
+- [Titanic Dataset](4-classification/titanic.csv)
+- [TP: Multi-Layer Perceptron (MLP)](4-classification/tp-4-mlp.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/4-classification/tp-4-mlp.ipynb)
 
 
 ## Evaluation
