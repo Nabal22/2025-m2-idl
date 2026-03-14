@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "1bf8bac21d140bf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e31438fdf5a115a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a160eda4ad3795d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-autodiff/cheatsheet-tp3.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cheatsheet-tp3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c546b69d6220045d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2842f106998585a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aba2ec941b47f1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "f2e0055723e9d939",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "ca98ba0ccce11fe9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0334f9d42dea7e48",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef30570421364994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02e6d3495b817db9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3-autodiff/cheatsheet-tp3.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour cheatsheet-tp3"
+            }
+          },
+          {
+            "id": "6e582cb30e573538",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3-autodiff/cheatsheet-tp3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de cheatsheet-tp3"
+            }
+          },
+          {
+            "id": "b60f0725e39cde43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "e84e8683d9e40406",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "41f8cfcfbee38f44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3-autodiff/cheatsheet-tp3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de cheatsheet-tp3"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 528.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a160eda4ad3795d2",
+  "lastOpenFiles": [
+    "3-autodiff/tp-3-backprop.md",
+    "3-autodiff/cheatsheet-tp3.md",
+    "3-autodiff/dual-numbers.md",
+    "3-autodiff/autodiff.md",
+    "2-basics/linear-regression.md",
+    "2-basics/cheatsheet-tp2.md",
+    "README.md",
+    "cheatsheet-global.md",
+    "1-introduction/cheatsheet-tp1.md",
+    "1-introduction/tp-1-mnist-mobilenet.md",
+    "1-introduction/tp1-cheatsheet.md",
+    "1-introduction/cats-dogs-vgg.md",
+    "1-introduction/fiche-resume-cats-dogs.md",
+    "1-introduction/cats-dogs-vgg_files/cats-dogs-vgg_34_0.png"
+  ]
+}
